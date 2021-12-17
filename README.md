@@ -6,7 +6,7 @@ A simple news website that requires user to pay a subscription in order to view 
 ## 🚀 Technologies
 
 - [Next.js](https://nextjs.org)
-- [TypeScript(https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [FaunaDB](https://fauna.com/)
 - [Stripe](https://stripe.com/)
 - [Prismic](https://prismic.io/)
