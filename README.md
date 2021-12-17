@@ -1,5 +1,5 @@
 
-# 🌐 Ignews
+# 📰 Ignews
 
 A simple news website that requires user to pay a subscription in order to view articles.
 
